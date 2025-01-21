@@ -3,6 +3,13 @@
 
 Une application web moderne et interactive pour la recherche de brevets, conçue avec un design futuriste et des fonctionnalités avancées. Ce projet comprend une interface utilisateur React et un backend Flask.
 
+Realiser par : 
+AIT EL MOUDENE	Oumaima
+BOUKHLAL	Yasmine
+EL HARCHA	Souha
+MAAROUF 	Ouissal
+M'BARKI	Bilal
+NEGGATE	Mariem
 ## Caractéristiques principales
 
 - Interface utilisateur élégante et futuriste
