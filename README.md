@@ -1,4 +1,5 @@
 # Recherche de Brevets Futuriste
+![image](https://github.com/user-attachments/assets/acf2965c-5069-4ad9-b8e9-5aeb27117517)
 
 Une application web moderne et interactive pour la recherche de brevets, conçue avec un design futuriste et des fonctionnalités avancées. Ce projet comprend une interface utilisateur React et un backend Flask.
 
